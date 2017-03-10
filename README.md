@@ -1,31 +1,23 @@
 ---
-summary: 'Style all the different navigations and section styles you’ll need.'
+summary: 'Style the primary header/masthead & footer for your website.'
 time: '3 hours'
 deliverables: 'Pattern library'
 ---
 
-# Navigations & sections
+# Headers & footers
 
 ## Overview
 
 - *Continue work on your `dog-rescue-pattern-library`*
-- Design all the different navigation patterns that your website needs:
-  - Are there next/previous or page buttons?
-  - Is there a secondary nav?
-  - Bread crumbs?
-  - Can the main navigation be designed separately from the masthead?
-- Also design all the different section styles for your website—each different grouping of content or images should be styled:
-  - Images & pieces of text?
-  - Groups of cards?
-  - Intro text chunks?
+- Design the primary masthead/header and all it’s responsive sizes for the website.
+- Design the primary footer and all it’s responsive sizes for the website.
+- **Each component should have it’s own folder: `patterns/header` & `patterns/footer`**
 - *Run your pattern library through Markbot and make sure it passes all the checks.*
 
 ---
 
 ## Details
 
-- *How many patterns?:* It’s completely up to you—it’s your website design. Call the teacher over if you want confirmation.
-- *Multi-file or single-file patterns:* It’s completely up to you—it’s your website design.
 - *When & why:* In the `README.md` files describe when to use each new pattern you create.
 
 ---
