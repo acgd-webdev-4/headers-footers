@@ -18,7 +18,7 @@ deliverables: 'Pattern library'
 
 ## Details
 
-- *When & why:* In the `README.md` files describe when to use each new pattern you create.
+- *When & why:* In the `config.yml` files describe when to use each new pattern you create.
 
 ---
 
