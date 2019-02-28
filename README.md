@@ -11,8 +11,7 @@ deliverables: 'Pattern library'
 - *Continue work on your `ecommerce-pattern-library`*
 - Design the primary masthead/header and all it’s responsive sizes for the website.
 - Design the primary footer and all it’s responsive sizes for the website.
-- **Each component should have it’s own folder: `patterns/header` & `patterns/footer`**
-- *Run your pattern library through Markbot and make sure it passes all the checks.*
+- **Each component should have it’s own folder: `_patterns/header` & `_patterns/footer`**
 
 ---
 
